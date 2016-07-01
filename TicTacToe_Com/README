@@ -1,0 +1,51 @@
+											
+							Readme.txt
+							***********
+
+
+Description
+***********
+
+Ce projet de bibliotheque de graphe est constitue de deux trois des dossiers ci-dessous :
+
+1. le repertoire src/ contient tous les fichier sources
+
+2. le repertoire obj/ contient les fichiers gardés en memoire 
+   
+3. le repertoire bin/ contient le fichier executatble
+
+4. le repertoire lib/ contient les bibliothèques générées libfonctionsTCP.a
+
+5. le repertoire include/ contient les fichiers header
+
+Fichiers sources
+****************
+
+1. FonctionServeur.c
+Contient des fonctions liees au deroulement du jeu du serveur arbitre 
+
+2.FonctionsJoueur.c
+Contient des fonctions liees au deroulement du jeu du joueur 
+
+
+4.fonctionsTCP.c
+Contient des fonctions liees aux sockets 
+
+5.Joueur.c
+Contient la Fonction principale du joueur
+
+6.Serveur_arbitre.c
+Contient la Fonction principale du serveur arbitre
+
+
+Compilation du programme
+***********************
+
+1. compilation : make
+
+2. execution du serveur : cfr readme a la racine du projet Projet_TicTacToe/
+
+3. execution du client : cfr readme a la racine du projet Projet_TicTacToe/
+
+
+
